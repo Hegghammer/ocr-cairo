@@ -1,0 +1,163 @@
+<?xml version="1.0" ?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+    <Creator>reen/submissions/scribeArabic/data_files/public/AR56_03_018_tagged</Creator>
+    <Created>2024-06-05T16:43:14</Created>
+    <LastChange>2024-06-05T16:43:14</LastChange>
+    <MetadataItem type="other" value="taggingBy:Mehreen Saeed"/>
+    <MetadataItem type="other" value="transcription_QA:Joseph Moukarzel"/>
+  </Metadata>
+  <Page imageFilename="AR56_03_018.JPG" imageWidth="3648" imageHeight="5472">
+    <ReadingOrder>
+      <OrderedGroup id="region_order_0">
+        <OrderedGroupIndexed caption="record_0" continuation="false" id="reading_order_0_0" index="0">
+          <RegionRefIndexed regionRef="region_4" index="0"/>
+          <RegionRefIndexed regionRef="region_0" index="1"/>
+          <RegionRefIndexed regionRef="region_1" index="2"/>
+        </OrderedGroupIndexed>
+        <OrderedGroupIndexed caption="record_1" continuation="false" id="reading_order_0_1" index="1">
+          <RegionRefIndexed regionRef="region_5" index="0"/>
+        </OrderedGroupIndexed>
+        <OrderedGroupIndexed caption="record_2" continuation="false" id="reading_order_0_2" index="2">
+          <RegionRefIndexed regionRef="region_3" index="0"/>
+          <RegionRefIndexed regionRef="region_2" index="1"/>
+        </OrderedGroupIndexed>
+      </OrderedGroup>
+    </ReadingOrder>
+    <TextRegion id="region_0" type="floating">
+      <Coords points="3449,726 3268,597 3045,691 3232,820 3232,820"/>
+      <TextLine id="line_0" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="0">
+        <Coords points="3449,726 3268,597 3045,691 3232,820 3232,820"/>
+        <TextEquiv>
+          <Unicode>٥٤</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3450,733 3431,728 3413,723 3395,718 3376,712 3358,707 3340,702 3322,697 3171,722 3153,716 3135,710 3117,704 3099,698 3081,691 3063,685 3045,679" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_1" type="floating">
+      <Coords points="2466,825 2026,831 2095,1035 2370,1002 2370,1002"/>
+      <TextLine id="line_1" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="0">
+        <Coords points="2466,825 2026,831 2095,1035 2370,1002 2370,1002"/>
+        <TextEquiv>
+          <Unicode>بسم الله الرحمن الرحيم</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="2467,858 2446,867 2426,875 2406,884 2386,892 2366,900 2346,909 2326,917 2160,924 2141,918 2121,911 2102,905 2083,899 2064,893 2045,886 2026,880" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_2" type="floating">
+      <Coords points="420,5097 1424,5187 1401,5417 381,5422 330,5299 330,5299"/>
+      <TextLine id="line_2" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="0">
+        <Coords points="420,5097 1424,5187 1401,5417 381,5422 330,5299 330,5299"/>
+        <TextEquiv>
+          <Unicode>٢٢ آب ١٩٢٣</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="1425,5281 1405,5283 1386,5285 1366,5287 1347,5289 1327,5291 1308,5293 1288,5295 1125,5289 1106,5288 1086,5287 1067,5286 905,5280 886,5279 866,5278 847,5276 685,5271 666,5269 646,5268 627,5267 464,5267 445,5273 426,5278 407,5283 387,5289 368,5295 349,5300 330,5306" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="region_3" type="floating">
+      <Coords points="1416,2577 1726,2589 1803,2387 1666,2351 1434,2369 1392,2464 1392,2464"/>
+      <TextLine id="line_3" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="0">
+        <Coords points="1416,2577 1726,2589 1803,2387 1666,2351 1434,2369 1392,2464 1392,2464"/>
+        <TextEquiv>
+          <Unicode>	١٣٤٢	٩ محرم</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="1804,2426 1786,2431 1768,2436 1750,2441 1732,2446 1714,2451 1696,2456 1678,2461 1522,2470 1503,2471 1485,2471 1466,2472 1447,2473 1429,2473 1410,2474 1392,2475" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+    </TextRegion>
+    <GraphicRegion id="region_4" type="other">
+      <Coords points="791,89 785,291 2809,291 2851,119 815,83 815,89"/>
+    </GraphicRegion>
+    <TextRegion id="region_5" type="paragraph">
+      <Coords points="121,2097 143,2260 1494,2387 1845,2416 2141,2439 3218,2403 3480,2389 3496,2208 3502,2122 3515,1445 3515,1164 3281,1115 1387,1051 470,1026 115,1216 107,1318 107,1654 107,1803 121,2097"/>
+      <TextLine id="line_6" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="0">
+        <Coords points="3510,1280 3515,1164 3281,1115 1387,1051 470,1026 371,1109 487,1238 737,1225 908,1222 958,1255 1318,1241 1649,1238 1676,1236 1701,1266 1775,1255 1899,1260 2483,1258 2838,1255 3086,1271 3232,1255 3295,1271 3482,1271 3482,1271"/>
+        <TextEquiv>
+          <Unicode>من عبد العزيز بن عبد الرحمن ال فيصل الى حضرة الفاضل صديقي العزيز الاستاذ امين الريحاني المحترم سلمه الله تعالى</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3516,1215 3459,1212 3402,1209 3345,1205 3288,1202 3231,1198 3174,1195 3117,1192 2655,1178 2599,1177 2542,1176 2486,1175 2025,1169 1968,1170 1912,1171 1855,1172 1398,1145 1342,1145 1287,1145 1231,1145 770,1138 713,1135 656,1132 599,1129 542,1126 485,1122 428,1119 371,1116" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_7" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="1">
+        <Coords points="3510,1398 3499,1296 3246,1252 3058,1266 2678,1258 2075,1260 1808,1263 1701,1255 1668,1230 1423,1247 985,1244 861,1225 390,1216 291,1183 115,1216 107,1318 132,1415 231,1412 355,1360 638,1382 875,1373 1128,1379 1258,1401 1456,1384 1492,1406 1558,1387 1929,1384 2161,1409 2353,1404 2411,1456 2552,1415 2868,1409 2984,1387 3042,1406 3309,1390 3369,1401 3369,1401"/>
+        <TextEquiv>
+          <Unicode>بعد اهدأ اجمل التحية واوفر السلام - ابدي انه وصلنا كتابكم المؤرخ ١٨ ذالقعده سنة ١٣٤١ وتلوته مسروراً بصحتكم</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3511,1340 3449,1339 3387,1338 3325,1338 3263,1337 3201,1336 3139,1335 3077,1335 2577,1339 2516,1341 2455,1342 2394,1343 1895,1321 1834,1320 1772,1319 1711,1319 1215,1316 1154,1314 1093,1311 1032,1309 536,1298 475,1298 413,1299 352,1299 291,1300 229,1300 168,1300 107,1301" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_8" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="2">
+        <Coords points="3474,1550 3515,1445 3251,1390 3053,1406 2967,1390 2846,1426 2477,1417 2398,1442 2348,1395 1993,1404 1847,1382 1483,1409 1445,1387 1137,1417 1104,1362 870,1379 671,1373 437,1390 371,1357 154,1445 126,1467 178,1519 236,1514 275,1572 349,1514 509,1530 655,1517 737,1566 801,1517 856,1506 905,1539 1040,1561 1159,1528 1431,1550 1572,1539 1624,1574 1698,1528 1778,1561 1885,1536 1990,1566 2164,1522 2293,1580 2320,1583 2417,1517 2486,1550 2651,1525 2750,1519 2871,1572 2921,1541 3053,1569 3323,1555 3422,1555 3422,1555"/>
+        <TextEquiv>
+          <Unicode>مبتهجاً بجميل وفائكم وقد اوجب عظيم امتناني قبولكم للهدية واستحسانكم لها متعكم الله بما يسركم.</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3516,1488 3454,1487 3393,1486 3331,1485 3270,1484 3209,1483 3147,1483 3086,1482 2591,1480 2529,1481 2468,1482 2406,1482 1912,1474 1851,1474 1789,1475 1728,1476 1232,1467 1172,1465 1112,1463 1052,1461 556,1461 494,1462 433,1463 371,1464 310,1464 248,1465 187,1466 126,1467" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_9" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="3">
+        <Coords points="3474,1684 3502,1649 3502,1569 3193,1550 2819,1552 2711,1519 2483,1541 2414,1525 2315,1577 2128,1525 1974,1563 1850,1533 1792,1555 1718,1547 1657,1550 1613,1561 1580,1536 1343,1550 1106,1533 1021,1563 949,1539 889,1544 831,1508 737,1561 682,1533 608,1533 423,1522 319,1528 269,1577 242,1506 143,1563 129,1651 203,1657 418,1665 726,1654 883,1676 1046,1646 1263,1660 1467,1649 1503,1684 1712,1643 1896,1671 2015,1671 2073,1701 2097,1657 2254,1671 2329,1695 2483,1676 2711,1693 2929,1657 3072,1673 3243,1693 3444,1684 3444,1687"/>
+        <TextEquiv>
+          <Unicode>الامتياز قد منحناه للشركة كما بلغكم وعرفناكم به وصادقنا عليه وسيبدؤن قريباً انشالله تعالى بالعمل: </Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3503,1631 3442,1629 3381,1627 3320,1625 3259,1622 3198,1620 3137,1618 3076,1616 2581,1608 2520,1609 2459,1611 2398,1612 1904,1605 1843,1604 1782,1603 1721,1602 1229,1599 1169,1598 1108,1597 1048,1596 557,1592 496,1593 434,1594 373,1594 312,1595 251,1595 190,1596 129,1597" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_10" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="4">
+        <Coords points="3389,1811 3499,1792 3491,1698 3347,1682 2989,1660 2607,1684 2362,1679 2287,1690 2086,1651 2073,1709 2001,1682 1695,1638 1536,1682 1464,1662 1404,1646 1142,1676 977,1651 773,1684 721,1651 371,1671 107,1654 107,1803 123,1819 256,1792 366,1786 492,1789 514,1797 567,1764 622,1797 699,1825 757,1797 936,1781 1043,1803 1233,1786 1379,1814 1492,1822 1668,1808 1797,1789 1902,1822 2062,1800 2293,1811 2483,1789 2709,1786 2816,1792 2973,1803 3086,1786 3168,1806 3328,1806 3328,1808"/>
+        <TextEquiv>
+          <Unicode>اشاعة بعض الجرائد عن مرض اصابني والحال انني ولله الحمد متمتع بكمال الصحة والسرور لم يعتريني ادنا ما يخل</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3499,1753 3437,1750 3375,1748 3313,1746 3252,1743 3190,1741 3128,1739 3066,1736 2571,1737 2510,1738 2449,1738 2388,1739 1892,1734 1831,1734 1770,1735 1709,1735 1215,1730 1154,1729 1093,1729 1032,1729 534,1734 473,1734 412,1735 351,1735 290,1736 229,1736 168,1736 107,1737" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_11" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="5">
+        <Coords points="3452,1946 3502,1855 3455,1808 3171,1806 3091,1786 2907,1808 2802,1797 2662,1781 2414,1786 2257,1819 2070,1795 1913,1819 1756,1797 1478,1830 1404,1808 1299,1808 1048,1803 916,1784 751,1795 696,1830 561,1773 509,1803 484,1784 415,1806 363,1786 145,1806 115,1863 143,1976 324,1938 451,1924 572,1963 671,1941 842,1954 1082,1943 1307,1935 1541,1954 1638,1941 1687,2001 1756,1963 1929,1935 2210,1941 2469,1943 2648,1963 2816,1935 2956,1979 3160,1938 3339,1941 3339,1941"/>
+        <TextEquiv>
+          <Unicode>بالراحة فاشكركم على اهتمامكم لذلك واسئل الله ان يلهم اصحابنا العرب الرشد والهداية لحتى لا يتربصون يتمشون وراء</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3503,1873 3441,1874 3380,1874 3318,1874 3257,1875 3195,1875 3134,1875 3072,1876 2574,1868 2513,1868 2452,1869 2391,1870 1896,1876 1835,1879 1774,1882 1713,1885 1222,1871 1160,1871 1099,1870 1037,1870 542,1866 481,1867 420,1868 359,1869 298,1870 237,1871 176,1872 115,1873" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_12" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="6">
+        <Coords points="3449,2114 3496,2031 3469,1957 3078,1938 2962,1982 2888,1943 2560,1960 2232,1932 2097,1929 1836,1954 1668,1996 1649,1929 1260,1941 1013,1943 740,1965 641,1943 531,1946 429,1924 198,1957 121,1993 121,2097 432,2078 680,2089 878,2053 980,2095 1236,2089 1550,2086 1720,2086 1792,2067 1952,2084 2015,2111 2125,2078 2175,2070 2197,2100 2287,2084 2425,2092 2742,2089 3075,2086 3229,2139 3391,2117 3391,2117"/>
+        <TextEquiv>
+          <Unicode>غاياتهم بمثل هذه الاكاذيب التي لا ثمرة لها : انكم تعلمون مزيد اهتمامي بالتاريخ الذي تشتغلون بتأليفه وقد</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3497,2048 3435,2044 3374,2041 3313,2038 3251,2035 3190,2031 3129,2028 3068,2025 2574,2021 2513,2021 2451,2021 2390,2020 1900,2017 1840,2017 1779,2018 1719,2018 1226,2014 1165,2014 1105,2015 1044,2015 549,2011 488,2012 426,2013 365,2014 304,2016 243,2017 182,2018 121,2019" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_13" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="7">
+        <Coords points="3419,2232 3496,2208 3502,2122 3226,2141 3023,2081 2764,2081 2480,2092 2191,2086 2153,2056 2034,2114 1918,2081 1778,2070 1594,2095 1362,2086 1109,2097 927,2089 875,2056 605,2092 536,2070 283,2092 129,2108 143,2260 393,2232 1117,2252 1269,2241 1486,2213 1528,2238 1742,2249 1960,2235 2001,2271 2108,2238 2450,2252 2604,2227 2654,2249 2722,2265 2755,2241 2882,2235 3014,2230 3080,2254 3356,2227 3358,2230"/>
+        <TextEquiv>
+          <Unicode>سررت جداً لسيركم في العمل بالتأليف كما ذكرتم واتمنا لكم التوفيق لانجازه باسرع ما يمكن والله الموفق المعين</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3503,2185 3441,2183 3379,2181 3318,2180 3256,2178 3195,2176 3133,2174 3072,2173 2580,2169 2519,2166 2458,2164 2397,2162 1905,2167 1844,2167 1784,2166 1723,2166 1231,2161 1170,2161 1109,2160 1048,2159 553,2156 492,2158 432,2160 371,2162 310,2164 250,2166 189,2168 129,2170" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+      <TextLine id="line_14" primaryLanguage="Arabic" production="handwritten-cursive" readingDirection="right-to-left" index="8">
+        <Coords points="3480,2389 3482,2246 3190,2249 3056,2249 2978,2227 2744,2235 2731,2268 2601,2235 2422,2249 2023,2271 1979,2271 1946,2232 1678,2232 1555,2235 1459,2268 1459,2318 1494,2387 1845,2416 2141,2439 2766,2384 3218,2403 3378,2389 3378,2389"/>
+        <TextEquiv>
+          <Unicode>هذا ما لزم تبيانه واقبلوا فائق محبتي وصميم مودتي ودمتم محروسين</Unicode>
+        </TextEquiv>
+        <UserDefined>
+          <UserAttribute name="center-line" value="3483,2322 3446,2323 3409,2323 3372,2323 3335,2324 3298,2324 3261,2324 3224,2325 2925,2306 2889,2307 2853,2308 2817,2309 2520,2318 2484,2322 2449,2325 2413,2328 2118,2345 2082,2341 2046,2337 2010,2333 1712,2319 1676,2317 1639,2315 1603,2313 1567,2311 1531,2309 1495,2307 1459,2305" description="Center line through polygon in reading direction"/>
+        </UserDefined>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>

@@ -95,6 +95,20 @@ for (i in seq_along(plain)) {
 ##     ocr_tess(inpath, outpath)
 
 ## -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Install Kraken and dependencies
+# NB: directly in terminal
+sudo apt install -y pipx
+sudo apt update
+sudo apt install -y software-properties-common
+sudo add-apt-repository -y ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install -y python3.11
+sudo pipx install --python python3.11 kraken
+
+# Download model
+kraken get 10.5281/zenodo.7050296 #arabic_best.mlmodel
+
+
 #| label: kraken
 library(stringr)
 infile <- "example_docs/plain/orig/001.jpg"

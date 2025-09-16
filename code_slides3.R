@@ -101,6 +101,18 @@ left_text <- paste(left_column$text, collapse = " ")
 
 
 ## -----------------------
+
+# Install dependencies
+# Run in terminal:
+sudo apt update
+sudo apt install -y software-properties-common
+sudo add-apt-repository -y ppa:deadsnakes/ppa
+sudo apt update
+sudo apt install -y python3.11 python3.11-venv python3.11-distutils
+curl -sS https://bootstrap.pypa.io/get-pip.py | python3.11
+python3.11 -m pip install transformers huggingface_hub pillow opencv-python
+python3.11 -m pip install torch --index-url https://download.pytorch.org/whl/cpu
+
 #| label: run
 python3.11 heron_parse.py --input ocr-cairo/example_docs/columns/orig/001.png --outdir heron_out
 
